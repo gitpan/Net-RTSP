@@ -1,6 +1,13 @@
 Revision history for Perl extension Net::RTSP.
 
-0.7  Thu Apr 22 06:01:58 2004
-	- original version; created by h2xs 1.21 with options
-		-n Net::RTSP -v 0.7 -AX
+[0.20]
+Fixed up the Net::RTSP::Socket module, filled out the Net::RTSP:Session module,
+and made the Net::RTSP::Presentation module funcitonal as well.
 
+[0.17]
+The Net::RTSP::Socket and Net::RTSP::EventLoop modules are now both functional.
+The Net::RTSP::Presentation module has been flushed out somewhat too.
+
+[0.7]
+
+Initial release.
